@@ -29,7 +29,7 @@ apt install git
 5. Cloning repo
 
 ```bash
-git clone https://github.com/Novan-H/Experimental-Bell.git
+git clone https://github.com/Novan-H/Experimental-Bot.git
 ```
 
 ## Cara Pasang
@@ -39,7 +39,7 @@ git clone https://github.com/Novan-H/Experimental-Bell.git
 1. Saat Anda mendapatkan kode sumber ini, pastikan untuk menginstal semua modul yang diperlukan dengan menjalankan perintah ini di terminal atau command prompt:
 
 ```bash
-cd /halaman/mengarah/ke/Experimental-Bell
+cd Experimental-Bot
 ```
 ```bash
 npm install
@@ -58,7 +58,7 @@ npm start
 2. Jika Anda memilih QR, Anda memerlukan perangkat tambahan. Disarankan untuk menggunakan opsi pairing.
 
 3. Jika Anda memilih pairing:
-   - Masukkan nomor WhatsApp Anda, contoh: 62831109XXXXX.
+   - Masukkan nomor WhatsApp Anda, contoh: 6281536XXXXX.
    - Salin kode yang ditampilkan.
    - Buka WhatsApp Anda dan ikuti langkah-langkah berikut:
      - Klik titik tiga di kanan atas.
