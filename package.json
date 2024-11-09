@@ -1,0 +1,40 @@
+{
+  "name": "experimental-Bot",
+  "version": "1.0.0",
+  "description": "Artificial Intelligence, The beginning of the robot era",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "start",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novan-H/Experimental-Bot.git"
+  },
+  "keywords": [
+    "whatsapp-bot-ai"
+  ],
+  "author": "@novan.p.p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novan-H/Experimental-Bot/issues"
+  },
+  "homepage": "https://github.com/Novan-H/Experimental-Bot#readme",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@whiskeysockets/baileys": "^6.4.0",
+    "axios": "^1.5.0",
+    "chalk": "^3.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "chokidar": "^3.6.0",
+    "dotenv": "^16.4.5",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "jimp": "^0.16.1",
+    "jsdom": "^16.5.0",
+    "moment-timezone": "^0.5.33",
+    "node-webpmux": "^3.2.0",
+    "path": "^0.12.7"
+  }
+}
