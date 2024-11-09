@@ -1,0 +1,79 @@
+{
+  "owner": [
+    "6281334595342@s.whatsapp.net"
+  ],
+  "botname": "(Experimental) -▪︎ Bella-AI",
+  "botfullname": "Bella",
+  "botnickname": "Bella",
+  "ownername": "Novan",
+  "cfg": {
+    "public": true,
+    "ai_interactive": {
+      "group": false,
+      "private": true,
+      "energy": false
+    },
+    "autotyping": false,
+    "autoreadpc": false,
+    "autoreadgc": true,
+    "first": {
+      "energy": 200,
+      "flow": 1,
+      "coins": 1,
+      "chargeRate": 0.003,
+      "chargingSpeed": 1000,
+      "maxCharge": 300,
+      "trialPrem": {
+        "energy": 15000,
+        "chargeRate": 0.5,
+        "maxCharge": 990
+      },
+      "autoai": {
+        "max": 50,
+        "delay": 3600000
+      }
+    },
+    "menu": {
+      "frames": {
+        "brackets": [
+          "[",
+          "]"
+        ],
+        "head": "┌",
+        "body": "│⇨",
+        "foot": "└"
+      },
+      "tags": {
+        "ai": "*<🧠Artificial Intelegen>*",
+        "downloader": "*<📥Media Downloader>*",
+        "group": "*<🏢Only Group!>*",
+        "maker": "*<🖨Maker>*",
+        "owner": "*<👤Only owner!>*",
+        "religion": "*<☪️Religion>*",
+        "game": "*<🎮Game>*",
+        "RPG": "*<🗺RPG Survival>*",
+        "tools": "*<🛠Tools>*",
+        "search": "*<🔍Search>*",
+        "art": "*<🌌Art Works>*",
+        "stablediffusion": "*<🫧Stable Diffusion (AI)>*",
+        "tts": "*<🗣Text To Speech (AI)>*",
+        "voice_changer": "*<🎙Voice Changer (AI)>*",
+        "other": "*<Others>*",
+        "bluearchive": "*<Blue Archive TTS (AI)*",
+        "relationship": "*<💍Relationship>*"
+      }
+    },
+    "donate": {},
+    "premium_mode": true
+  },
+  "api": {
+    "rifza": {
+      "key": "Bell409",
+      "url": "https://rifza.me"
+    },
+    "xterm": {
+      "key": "Bell409",
+      "url": "https://ai.xterm.codes"
+    }
+  }
+}
